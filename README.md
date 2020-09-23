@@ -149,3 +149,6 @@ Further reading on technical writing topics from [www.writethedocs.org](https://
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">The Documentation Compendium</span>.
 </p>
+
+# Misc
+* [More From @medium](https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991)
